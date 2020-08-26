@@ -33,6 +33,7 @@ model.save("CompleteModel222.h5")
 print("saved model to disk")
 
 """
+# we can save model and weights seperately in JSON and H5 file
 # save  model to JSON
 model_json = model.to_json()
 with open ("model.json","w") as json_file:
