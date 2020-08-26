@@ -1,0 +1,6 @@
+# detect stress of a person.
+# Heart rate, Skin conductence, body temperature.
+#ANN
+#TensorFlow -> keras
+#real time 
+#raspberry pi
